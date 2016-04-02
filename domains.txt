@@ -1,0 +1,13 @@
+- Communication wits server
+	- facade to do stuff
+	- credentials provider
+		- from environment
+		- from properties file
+		- from command line options
+	- session provider
+		- get session id by org name
+- transformers
+	- file organisation transformer
+	- file name transformer
+	- file contents transformer
+
